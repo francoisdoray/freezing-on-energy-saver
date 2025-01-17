@@ -30,7 +30,7 @@ consuming CPU excessively.
 
 ## Origin trial opt-out
 
-A page can be opted-out from freezing by registering for the PageFreezeOptOut
-origin trial. This origin trial will be available for a limited time, while
-other solution to opt-out from freezing are being developed (see for example the
-[Progress Notification API](https://github.com/explainers-by-googlers/progress-notification)).
+A page can be opted-out from freezing by registering for the
+BackgroundPageFreezeOptOut origin trial. This origin trial will be available for
+a limited time, while other solution to opt-out from freezing are being
+developed (see for example the [Progress Notification API](https://github.com/explainers-by-googlers/progress-notification)).
